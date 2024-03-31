@@ -1,1 +1,28 @@
-/* your code */
+*{
+	overflow:none;
+	padding:0px;
+	margin:0px;
+}
+thead{
+	background-color:#503ED6;
+
+}
+#t1{
+	border-top-left-radius:5px;
+}
+
+#head>th{
+	color:white;
+	text-align:left;
+	
+}
+#main{
+	border:2px solid grey;
+	
+	border-radius:10px;
+	
+}
+#body>tr:nth-child(even){
+	background-color:#E8E8E8
+	
+}
